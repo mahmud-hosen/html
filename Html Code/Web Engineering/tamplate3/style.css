@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+.left_sideber{
+    background-color: black;
+    height: 600px;
+    width: 10%;
+    float: left;
+}
+.right_sideber{
+    height: 600px;
+    width: 10%;
+    background-color: rgb(216, 24, 24);
+    float: right;
+}
+
+.navber{
+    background-color: chartreuse;
+    height: 100px;
+    width: 80%;
+    float: left;
+}
+
+
+.contain1{
+    height: 400px;
+    width: 20%;
+    background-color: rgb(0, 241, 121);
+    float: left;
+
+}
+
+.contain2{
+    height: 400px;
+    width: 20%;
+    background-color: rgb(169, 241, 0);
+    float: left;
+
+}
+.contain3{
+    height: 400px;
+    width: 20%;
+    background-color: rgb(231, 157, 19);
+    float: left;
+
+}
+.contain4{
+    height: 400px;
+    width: 20%;
+    background-color: rgb(19, 231, 30);
+    float: left;
+
+}
+
+
+
+.footer{
+    height: 100px;
+    width: 80%;
+    background-color: rgb(216, 24, 200);
+    float: left;
+}
+

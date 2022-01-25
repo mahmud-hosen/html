@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    padding: 1%;
+    margin-bottom: 25px;
+    
+}
+
+
+
+/* start nav style */
+.nav_ul{
+    list-style-type: none;
+    background-color: #000000;
+    overflow: hidden;
+    margin: 1px;
+   
+   
+}
+.nav_item{
+    float: right;
+    padding: 15px;
+    margin-top: 5px;
+   
+    
+}
+.nav_a{
+    text-decoration: none;
+    padding: 10px;
+    color: rgb(246, 246, 246);
+
+}
+.nav_a:hover{
+    background-color: rgb(202, 130, 193);
+    border-radius: 20px;
+}
+
+/* End nav style */
+
+
+/* left sideber Start */
+
+.left_sideber{
+    width: 69.6%;
+    float: left;
+    border: 1px solid black;
+    background-color: rgb(233, 201, 149);
+    
+}
+
+.right_sideber{
+    width: 30%;
+    height: 759px;
+    border: 1px solid black;
+    float: right;
+    background-color: rgb(233, 201, 149);
+
+
+}
+
+.nav_img{
+    border-radius: 25%;
+}
+
+
+
+.nav_img{
+    height: 50px;
+    width: 50px;
+   margin: 5px;
+}
+.head_text{
+    margin: 13px;
+}
+.self_title{
+    margin: 8px;
+
+}
+.profile{
+    margin: 10px;
+}
+.exprience{
+    margin: 10px;
+}
+.education{
+    margin: 10px;
+}
+.education_table{
+    margin-left: 10px;
+    text-align: center;
+    width: 50%;
+   
+   
+}
+th,td {
+    height: 50px;
+  }
+
+.co_curriculer_activities{
+    margin: 10px;
+}
+
+.achievement{
+    
+    margin: 8px 5px 15px 10px;
+}
+
+.skills{
+    margin: 10px;
+}
+.contacts{
+    margin: 10px 0px 5px 10px;
+    
+}
+.contac_link{
+    list-style-type:none;
+    color: black;
+}
+
+.contac_link:hover{
+    opacity: .7;
+}
+
+
+
+

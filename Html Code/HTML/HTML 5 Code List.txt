@@ -1,0 +1,44 @@
+Tag	        Description
+<!DOCTYPE> 	Defines the document type
+<html>	        Defines an HTML document
+<head>	        Contains metadata/information for the document
+<title>	        Defines a title for the document
+<body>	        Defines the document's body
+<h1> to <h6>	Defines HTML headings
+<p>	        Defines a paragraph
+<br>	        Inserts a single line break
+<hr>	        Defines a thematic change in the content
+<!--...-->      Define commant
+<b>	        Defines bold text
+<center>	Defines centered text
+<em>     	Defines emphasized text 
+<i>	        Defines a part of text in an alternate voice or mood
+<mark>  	Defines marked/highlighted text
+<progress>	Represents the progress of a task
+<small>  	Defines smaller text
+<strong>	Defines important text
+<sub>	        Defines subscripted text
+<sup>	        Defines superscripted text
+<u>	        Defines some text that is unarticulated and styled differently from normal text
+<form>  	Defines an HTML form for user input
+<input>  	Defines an input control
+<textarea>	Defines a multiline input control (text area)
+<button>	Defines a clickable button
+<select>	Defines a drop-down list
+<option>	Defines an option in a drop-down list
+<label>  	Defines a label for an <input> element
+<fieldset>	Groups related elements in a form
+<frame>	        Defines a window (a frame) in a frameset
+<a>     	Defines a hyperlink
+<ul>    	Defines an unordered list
+<ol>    	Defines an ordered list
+<li>    	Defines a list item
+<table> 	Defines a table
+<caption>	Defines a table caption
+<th>	        Defines a header cell in a table
+<tr>	        Defines a row in a table
+<td>	        Defines a cell in a table
+<img>	        Defines an image
+<audio> 	Defines sound content
+<video> 	Defines a video or movie
+

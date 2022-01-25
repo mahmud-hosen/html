@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.nav{
+    background-color: blue;
+    width: 100%;
+    height: 100px;
+  
+   
+}
+
+
+.nav_icon1{
+    height: 100%;
+    padding: 10px;
+
+}
+.nav_icon2{
+    height: 100%;
+    float: right;
+   
+}
+
+.left_sideber{
+    background-color: rgb(246, 3, 145);
+    width: 33.33%;
+    height: 300px;
+    float: left;
+   
+
+}
+
+.middle_sideber{
+    background-color: rgb(3, 246, 64);
+    width: 33.33%;
+    height: 300px;
+    float: left;
+   
+}
+
+.right_sideber{
+    background-color: rgba(195, 0, 255, 0.849);
+    width: 33.33%;
+    height: 300px;
+    float: left;
+   
+
+   
+    
+}
+
+
+.footer{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    float: left;
+}

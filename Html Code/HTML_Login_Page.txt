@@ -1,0 +1,55 @@
+
+<html>
+    <head>
+        <title>A Simple From</title>
+        <link rel="stylesheet" type="text/css"href="style.css">
+
+
+    </head>
+    <body>
+        <h1>Registration From</h1>
+
+        <form >
+            <fieldset >  <legend>Personal Information</legend>
+
+
+                <b>First Name : </b><input type="text" name="textbox1"> </br> </br>
+            <b>Last Name : </b><input type="text" name="textbox2">    </br>  </br>
+            <b>First Name : </b><input type="text" name="textbox3">     </br> </br>
+            <b>Gender :</b><input type="radio" name="gender" value="male" checked>Male
+                           <input type="radio" name="gender" value="femail">Femail
+                           <input type="radio" name="gender" value="other">Other   </br> </br>
+                           
+             <b>Religion :</b><input type="checkbox" name="religion" value="islam" checked>islam
+                            <input type="checkbox" name="religion" value="Hindu">hindu
+                            <input type="checkbox" name="religion" value="other">Other   </br> 
+        
+
+            </fieldset> </br>
+
+
+            <b>Department</b>  <select name="department">
+
+                                  <option>CSE</option>
+                                  <option>EEE</option>
+                                  <option>SWE</option>
+                                    
+                                </select>
+                                
+
+        <p>Comment</p> <textarea name="text_area" rows="7" cols="50">
+
+            please Write Here 
+        </textarea>     </br> </br>
+
+
+        <input class="input" type="submit" value="submit">
+        <input type="reset" value="reset">
+
+
+    
+        </form>
+
+    </body>
+
+</html>
